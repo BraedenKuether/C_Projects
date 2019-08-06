@@ -1,2 +1,1 @@
-Relevant code create by myself can be found in bst.c
-All other code was not written by myself. 
+Relevant code create by myself can be found in bst.c, all other code was not written by myself. 
